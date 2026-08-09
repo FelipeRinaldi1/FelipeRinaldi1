@@ -21,8 +21,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nathanhgo/vagas_jacarei"> People</a></h3>
-      <p>Plataforma de vagas de emprego da cidade de Jacareí-SP |
-      Projeto de Extensão Universitária</p>
+      <p>Plataforma de vagas de emprego da cidade de Jacareí-SP 
+      Projeto de Extensão Universitária.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nathanhgo/sippat"> SIPPAT</a></h3>

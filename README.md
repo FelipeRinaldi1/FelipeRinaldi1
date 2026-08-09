@@ -1,6 +1,6 @@
 # Olá, sou o Felipe 🐈
 
-<p>Desenvolvedor focado na construção de sistemas internos para automação de processos, gestão de fluxos operacionais e integração de dados corporativos.
+<p>Sou desenvolvedor focado na construção de sistemas internos para automação de processos, gestão de fluxos operacionais e integração de dados corporativos.
 </p>
 
 ---
